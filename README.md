@@ -20,3 +20,7 @@ La idea es usar archivos fáciles de entender para practicar:
 - `data/animals.csv`: animales registrados
 - `src/summary.py`: pequeño script de resumen
 - `docs/notes.md`: notas del proyecto
+
+## Workshop tip
+
+Use `git log --oneline --graph --all` frequently to visualize the repository history.
